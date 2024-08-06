@@ -2,8 +2,8 @@
 #!/bin/zsh
 
 # Set the paths
-OBSIDIAN_PATH="/Users/deif/Library/Mobile Documents/iCloud~md~obsidian/Documents"
-NOTEPLAN_PATH="/Users/deif/Library/Containers/co.noteplan.NotePlan-setapp/Data/Library/Application Support/co.noteplan.NotePlan-setapp"
+OBSIDIAN_PATH="/Users/deif/Library/Mobile\ Documents/iCloud~md~obsidian/Documents"
+NOTEPLAN_PATH="/Users/deif/Library/Containers/co.noteplan.NotePlan-setapp/Data/Library/Application\ Support/co.noteplan.NotePlan-setapp"
 
 # Pull the latest changes from the remote repository in Obsidian
 cd $OBSIDIAN_PATH
