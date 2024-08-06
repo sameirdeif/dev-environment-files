@@ -1,0 +1,14 @@
+
+# Define the two roots
+root = /Users/deif/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes/
+root = /Users/deif/Library/Containers/co.noteplan.NotePlan-setapp/Data/Library/Application Support/co.noteplan.NotePlan-setapp/Notes/
+
+# Additional Unison options
+auto = true
+batch = true
+
+# Ignore specific folders inside NotePlan/Notes
+ignore = /Users/deif/Library/Containers/co.noteplan.NotePlan-setapp/Data/Library/Application Support/co.noteplan.NotePlan-setapp/Notes/@Trash/
+ignore = /Users/deif/Library/Containers/co.noteplan.NotePlan-setapp/Data/Library/Application Support/co.noteplan.NotePlan-setapp/Notes/@Templates/
+ignore = /Users/deif/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes/.obsidian/
+
